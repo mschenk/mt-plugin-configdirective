@@ -20,6 +20,8 @@ Usage
 -----
 &lt;mt:ConfigDirective name="NAME_OF_DIRECTIVE"&gt;
 
-License
---------
-Hey, it's 12 lines of Perl code (blank lines included) and a configuration file.  You hereby have my permission to do whatever you like with it.
+License & Credit
+-----------------
+It is only 12 lines of Perl code (blank lines included) and a configuration file, but still...
+
+This plugin was written by Maarten Schenk (maarten@yesitcan.be) of http://www.yesitcan.be and http://www.movabletips.com in 2012. You are free to use this plugin on your Movable Type installation for any purpose provided you leave this message intact.
