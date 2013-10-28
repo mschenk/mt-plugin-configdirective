@@ -5,7 +5,7 @@ author_name: Maarten Schenk
 description: This plugin adds a tag to Movable Type that allows direct use of the value of config directives in templates.
 plugin_link: http://www.movabletips.com/
 doc_link: http://www.movabletips.com/
-version: 1.0
+version: 1.0.0
 tags:
     function:
        ConfigDirective: $ConfigDirective::ConfigDirective::Plugin::configdirective
